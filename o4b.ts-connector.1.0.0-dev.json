@@ -1,0 +1,17 @@
+{
+  "manifests": {
+    "o4b/ts-connector": {
+      "manifest": {
+        "bundles": {
+          "O4B\\IbexaTranslationStudioConnectorBundle\\O4BIbexaTranslationStudioConnectorBundle": [
+            "all"
+          ]
+        },
+        "copy-from-recipe": {
+          "config/": "%CONFIG_DIR%"
+        }
+      },
+      "ref": "a63f8c19b729fc9f4e5895b36e9d88d2acfd40a0"
+    }
+  }
+}
