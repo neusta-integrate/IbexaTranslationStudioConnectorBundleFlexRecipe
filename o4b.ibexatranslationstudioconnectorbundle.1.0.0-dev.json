@@ -1,6 +1,6 @@
 {
   "manifests": {
-    "o4b/ts-connector": {
+    "o4b/ibexatranslationstudioconnectorbundle": {
       "manifest": {
         "bundles": {
           "O4B\\IbexaTranslationStudioConnectorBundle\\O4BIbexaTranslationStudioConnectorBundle": [
@@ -11,7 +11,7 @@
           "config/": "%CONFIG_DIR%/"
         }
       },
-      "ref": "03a147d509469e8bf37d54d8a6559b06a49e9a9a"
+      "ref": "6e2be243135c67f44ab57cef86e9e582483958ba"
     }
   }
 }
