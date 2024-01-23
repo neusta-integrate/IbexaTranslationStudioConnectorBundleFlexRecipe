@@ -8,10 +8,10 @@
           ]
         },
         "copy-from-recipe": {
-          "config/": "%CONFIG_DIR%"
+          "config/": "%CONFIG_DIR%/"
         }
       },
-      "ref": "a63f8c19b729fc9f4e5895b36e9d88d2acfd40a0"
+      "ref": "03a147d509469e8bf37d54d8a6559b06a49e9a9a"
     }
   }
 }
