@@ -1,2 +1,0 @@
-o4b_ibexa_ts_connector:
-  resource: '@O4BIbexaTranslationStudioConnectorBundle/bundle/Resources/config/routing.yaml'
