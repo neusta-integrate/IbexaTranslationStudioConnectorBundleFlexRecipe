@@ -9,6 +9,6 @@
   "_links": {
     "repository": "https://github.com/open4business/IbexaTranslationStudioConnectorBundleFlexRecipe:main",
     "origin_template": "{package}:{version}@github.com/open4business/IbexaTranslationStudioConnectorBundleFlexRecipe:main",
-    "recipe_template": "https://api.github.com/open4business/IbexaTranslationStudioConnectorBundleFlexRecipe/contents/{package_dotted}.{version}.json"
+    "recipe_template": "https://api.github.com/repos/open4business/IbexaTranslationStudioConnectorBundleFlexRecipe/contents/{package_dotted}.{version}.json"
   }
 }
