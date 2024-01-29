@@ -3,7 +3,7 @@
     "o4b/ibexatranslationstudioconnectorbundle": {
       "manifest": {
         "bundles": {
-          "O4B\\IbexaTranslationStudioConnectorBundle\\O4BIbexaTranslationStudioConnectorBundle": [
+          "O4B\\Bundle\\IbexaTranslationStudioConnectorBundle\\O4BIbexaTranslationStudioConnectorBundle": [
             "all"
           ]
         },
