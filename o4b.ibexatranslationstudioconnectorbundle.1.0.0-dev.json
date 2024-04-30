@@ -168,8 +168,8 @@
             "    # Bearer Token (master key)RITpdOUi5ImuVDyIUpunMg==",
             "    tokenFromTS: IN9mkWAOSUfgcVeEmZUNvYVdfU5jLT",
             "  ts_address: https://ts-connect-dev.open4business.de/translationstudio/v2/",
-            "  ts_address: http://127.0.0.1:9090/translationstudio/v2/ # for mock server testing",
-            "  ts_address: http://127.0.0.1:1235/translationstudio/v2/ # for local testing",
+            "  # ts_address: http://127.0.0.1:9090/translationstudio/v2/ # for mock server testing",
+            "  # ts_address: http://127.0.0.1:1235/translationstudio/v2/ # for local testing",
             "  ts_base_address: https://ts-connect-dev.open4business.de",
             "  #  ts_base_address: http://127.0.0.1:1235 # for local testing",
             "  ts_translator_number: 1",
@@ -269,7 +269,7 @@
           "executable": false
         }
       },
-      "ref": "34f761c521c9600596023de1e5d4649d6c25a018"
+      "ref": "7ccd98fd8af070d9449ff5d7a3cec3e5f2af2038"
     }
   }
 }
