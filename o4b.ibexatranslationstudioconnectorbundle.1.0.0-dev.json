@@ -258,7 +258,8 @@
             "  field_type_whitelist_ezlandingpage:",
             "    - richtext",
             ""
-          ]
+          ],
+          "executable": false
         },
         "config/routes/o4b_routing.yaml": {
           "contents": [
