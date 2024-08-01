@@ -163,6 +163,7 @@
             "  translation_workflow_name:",
             "    - default_translation_workflow",
             "  authentication:",
+            "    license:",
             "    # Bearer Token (master key)0b7dfbedb1ff4f35a46567d45ccf61d7",
             "    tokenToTS: db1cc6bd-109a-4c39-8cb3-034f9f05aba3-d87c6d75-a0d7-4d0f-8a63-4dfb9062047c",
             "    # Bearer Token (master key)RITpdOUi5ImuVDyIUpunMg==",
