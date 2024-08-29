@@ -9,20 +9,11 @@
         },
         "copy-from-package": {
           "src/bundle/Resources/config/o4b_ts_connector.yaml": "%CONFIG_DIR%/packages/o4b_ts_connector.yaml",
-          "src/bundle/Resources/config/o4b_ts_connector_migrations.yaml": "%SRC_DIR%/Migrations/Ibexa/migrations/o4b_ts_connector.yaml"
+          "src/bundle/Resources/config/o4b_ts_connector_migrations.yaml": "%SRC_DIR%/Migrations/Ibexa/migrations/o4b_ts_connector.yaml",
+          "src/bundle/Resources/config/o4b_ts_connector_routes.yaml": "%CONFIG_DIR%/routes/o4b_ts_connector.yaml"
         }
       },
-      "files": {
-        "config/routes/o4b_ts_connector.yaml": {
-          "contents": [
-            "o4b_ibexa_ts_connector:",
-            "  resource: '@O4BIbexaTranslationStudioConnectorBundle/Resources/config/o4b_routing.yaml'",
-            ""
-          ],
-          "executable": false
-        }
-      },
-      "ref": "979c533e1d23813325190b5fcb512a4e40bc5255"
+      "ref": "ec3f8731202d3eda5ad10789dd11b2d6dc69dbc0"
     }
   }
 }
