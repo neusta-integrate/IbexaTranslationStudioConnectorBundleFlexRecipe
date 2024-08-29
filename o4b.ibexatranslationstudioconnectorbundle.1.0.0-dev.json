@@ -12,7 +12,17 @@
           "src/bundle/Resources/config/o4b_ts_connector_migrations.yaml": "%SRC_DIR%/Migrations/Ibexa/migrations/o4b_ts_connector.yaml"
         }
       },
-      "ref": "119660df11d14003003977b20433c272d3af9dd2"
+      "files": {
+        "config/routes/o4b_ts_connector.yaml": {
+          "contents": [
+            "o4b_ibexa_ts_connector:",
+            "  resource: '@O4BIbexaTranslationStudioConnectorBundle/Resources/config/o4b_routing.yaml'",
+            ""
+          ],
+          "executable": false
+        },
+        "ref": "82f12411b144d939d72eb327487937a1b8defa42"
+      }
     }
   }
 }
