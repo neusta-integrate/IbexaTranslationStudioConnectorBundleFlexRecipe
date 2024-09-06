@@ -10,10 +10,11 @@
         "copy-from-package": {
           "src/bundle/Resources/config/o4b_ts_connector.yaml": "%CONFIG_DIR%/packages/o4b_ts_connector.yaml",
           "src/bundle/Resources/config/o4b_ts_connector_migrations.yaml": "%SRC_DIR%/Migrations/Ibexa/migrations/o4b_ts_connector.yaml",
-          "src/bundle/Resources/config/o4b_ts_connector_routes.yaml": "%CONFIG_DIR%/routes/o4b_ts_connector.yaml"
+          "src/bundle/Resources/config/o4b_ts_connector_routes.yaml": "%CONFIG_DIR%/routes/o4b_ts_connector.yaml",
+          "src/bundle/Resources/assets/": "%PUBLIC_DIR%/bundles/o4bibexatranslationstudioconnector/img"
         }
       },
-      "ref": "ec3f8731202d3eda5ad10789dd11b2d6dc69dbc0"
+      "ref": "9f2bd60cf00e8f48eabd57aea308b24901d7f956"
     }
   }
 }
